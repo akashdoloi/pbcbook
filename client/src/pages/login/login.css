@@ -5,22 +5,24 @@
     background-color: black;
     color: white;
 }
-
-.card{
+.login{
+    height: 50vh;
+}
+.login .card{
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     width: 400px;
-    height: 400px;
+    height: 300px;
     border-radius: 10px;
-    margin: 30vh auto;
+    margin: 150px auto;
     background-color: black;
     color: white;
     padding: 50px;
     
 }
-input{
+.login input{
     width: 300px;
     height: 40px;
     border-radius: 5px;
@@ -30,7 +32,7 @@ input{
     background-color: black;
     color: white;
 }
-button{
+.login button{
     width: 130px;
     height: 40px;
     border-radius: 5px;

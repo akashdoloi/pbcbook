@@ -12,7 +12,7 @@ const Login = () => {
                 <button>Login</button>
             </form>
             <p>Don't have an account? 
-                <Link to='/register'>Register</Link>
+                <Link to='/register'> Register</Link>
                 </p>
         </div>
     </div>
