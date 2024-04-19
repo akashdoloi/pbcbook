@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black;
+    color: white;
+}
+
+.card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 400px;
+    height: 400px;
+    border-radius: 10px;
+    margin: 30vh auto;
+    background-color: black;
+    color: white;
+    padding: 50px;
+    
+}
+input{
+    width: 300px;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid white;
+    padding: 0 10px;
+    margin: 20px;
+    background-color: black;
+    color: white;
+}
+button{
+    width: 130px;
+    height: 40px;
+    border-radius: 5px;
+    border: none;
+    padding: 0 10px;
+    margin: 20px;
+    background-color: rgb(109, 203, 65);
+    color: white;
+    cursor: pointer;
+
+}
